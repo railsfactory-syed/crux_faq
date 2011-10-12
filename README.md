@@ -1,10 +1,13 @@
 ﻿CruxFaq
 =======
 
-An extension for managing FAQs
+CruxFaq is an extension for Spree Commerce. It is mandatory that Spree has to be installed in the system
+to add this extension. CruxReviews enables building Faq for a product page that is displayed for user access. 
+
 
 Installation
-=======
+===========
+It is mandatory that Spree has to be installed prior to the inclusion of the Extension.
 
 Start by adding the gem to your existing Rails 3.x application's Gemfile
 
